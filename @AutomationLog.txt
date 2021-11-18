@@ -1,0 +1,163 @@
+2021-11-18 11:30:15.984 run.py[63] <module> -> Find Control Timeout: {Name: 'list', ControlType: ListControl}
+2021-11-18 11:35:01.055 run.py[63] <module> -> Find Control Timeout: {Name: 'list', ControlType: ListControl}
+UIAutomation 2.0.15 (Python 3.7.0, 64 bit)
+2021-11-18 12:15:12.100 automation.py[79] main -> Starts, Current Cursor Position: (683, 777)
+ControlType: ListControl    ClassName:     AutomationId:     Rect: (620,586,748,751)[128x165]    Name: ''    Handle: 0x0(0)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern SelectionPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (620,586,748,619)[128x33]    Name: '加油记录'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (620,586,748,619)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (640,588,728,619)[88x31]    Name: '加油记录'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (620,619,748,652)[128x33]    Name: '积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (620,619,748,652)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (640,621,728,652)[88x31]    Name: '积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (620,652,748,685)[128x33]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (620,652,748,685)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (640,654,728,685)[88x31]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (620,685,748,718)[128x33]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (620,685,748,718)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (640,687,728,718)[88x31]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (620,718,748,751)[128x33]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (620,718,748,751)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (640,720,728,751)[88x31]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+2021-11-18 12:15:12.302 automation.py[114] main -> Ends
+
+2021-11-18 12:15:22.889 run.py[64] <module> -> Find Control Timeout: {Name: 'list', ControlType: ListControl}
+UIAutomation 2.0.15 (Python 3.7.0, 64 bit)
+2021-11-18 12:27:17.371 automation.py[79] main -> Starts, Current Cursor Position: (946, 807)
+ControlType: ListControl    ClassName:     AutomationId:     Rect: (883,616,1011,781)[128x165]    Name: ''    Handle: 0x0(0)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern SelectionPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,616,1011,649)[128x33]    Name: '加油记录'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,616,1011,649)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,618,991,649)[88x31]    Name: '加油记录'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,649,1011,682)[128x33]    Name: '积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,649,1011,682)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,651,991,682)[88x31]    Name: '积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,682,1011,715)[128x33]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,682,1011,715)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,684,991,715)[88x31]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,715,1011,748)[128x33]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,715,1011,748)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,717,991,748)[88x31]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,748,1011,781)[128x33]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,748,1011,781)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,750,991,781)[88x31]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+2021-11-18 12:27:17.586 automation.py[114] main -> Ends
+
+UIAutomation 2.0.15 (Python 3.7.0, 64 bit)
+2021-11-18 12:27:43.987 automation.py[79] main -> Starts, Current Cursor Position: (946, 807)
+ControlType: ListControl    ClassName:     AutomationId:     Rect: (883,616,1011,781)[128x165]    Name: ''    Handle: 0x0(0)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern SelectionPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,616,1011,649)[128x33]    Name: '加油记录'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,616,1011,649)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,618,991,649)[88x31]    Name: '加油记录'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,649,1011,682)[128x33]    Name: '积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,649,1011,682)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,651,991,682)[88x31]    Name: '积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,682,1011,715)[128x33]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,682,1011,715)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,684,991,715)[88x31]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,715,1011,748)[128x33]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,715,1011,748)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,717,991,748)[88x31]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,748,1011,781)[128x33]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,748,1011,781)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,750,991,781)[88x31]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+2021-11-18 12:27:44.198 automation.py[114] main -> Ends
+
+UIAutomation 2.0.15 (Python 3.7.0, 64 bit)
+2021-11-18 12:33:17.095 automation.py[79] main -> Starts, Current Cursor Position: (946, 807)
+ControlType: ListControl    ClassName:     AutomationId:     Rect: (883,616,1011,781)[128x165]    Name: ''    Handle: 0x0(0)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern SelectionPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,616,1011,649)[128x33]    Name: '加油记录'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,616,1011,649)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,618,991,649)[88x31]    Name: '加油记录'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,649,1011,682)[128x33]    Name: '积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,649,1011,682)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,651,991,682)[88x31]    Name: '积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,682,1011,715)[128x33]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,682,1011,715)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,684,991,715)[88x31]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,715,1011,748)[128x33]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,715,1011,748)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,717,991,748)[88x31]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,748,1011,781)[128x33]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,748,1011,781)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,750,991,781)[88x31]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+2021-11-18 12:33:17.313 automation.py[114] main -> Ends
+
+UIAutomation 2.0.15 (Python 3.7.0, 64 bit)
+2021-11-18 12:34:42.236 automation.py[79] main -> Starts, Current Cursor Position: (946, 807)
+ControlType: ListControl    ClassName:     AutomationId:     Rect: (883,616,1011,781)[128x165]    Name: ''    Handle: 0x0(0)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern SelectionPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,616,1011,649)[128x33]    Name: '加油记录'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,616,1011,649)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,618,991,649)[88x31]    Name: '加油记录'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,649,1011,682)[128x33]    Name: '积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,649,1011,682)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,651,991,682)[88x31]    Name: '积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,682,1011,715)[128x33]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,682,1011,715)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,684,991,715)[88x31]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,715,1011,748)[128x33]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,715,1011,748)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,717,991,748)[88x31]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (883,748,1011,781)[128x33]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (883,748,1011,781)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (903,750,991,781)[88x31]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+2021-11-18 12:34:42.447 automation.py[114] main -> Ends
+
+UIAutomation 2.0.15 (Python 3.7.0, 64 bit)
+2021-11-18 13:40:32.902 automation.py[79] main -> Starts, Current Cursor Position: (1219, 919)
+ControlType: ListControl    ClassName:     AutomationId:     Rect: (1156,728,1284,893)[128x165]    Name: ''    Handle: 0x0(0)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern SelectionPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,728,1284,761)[128x33]    Name: '加油记录'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,728,1284,761)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,730,1264,761)[88x31]    Name: '加油记录'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,761,1284,794)[128x33]    Name: '积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,761,1284,794)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,763,1264,794)[88x31]    Name: '积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,794,1284,827)[128x33]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,794,1284,827)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,796,1264,827)[88x31]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,827,1284,860)[128x33]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,827,1284,860)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,829,1264,860)[88x31]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,860,1284,893)[128x33]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,860,1284,893)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,862,1264,893)[88x31]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+2021-11-18 13:40:33.113 automation.py[114] main -> Ends
+
+UIAutomation 2.0.15 (Python 3.7.0, 64 bit)
+2021-11-18 13:42:36.010 automation.py[79] main -> Starts, Current Cursor Position: (1219, 919)
+ControlType: ListControl    ClassName:     AutomationId:     Rect: (1156,728,1284,893)[128x165]    Name: ''    Handle: 0x0(0)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern SelectionPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,728,1284,761)[128x33]    Name: '加油记录'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,728,1284,761)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,730,1264,761)[88x31]    Name: '加油记录'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,761,1284,794)[128x33]    Name: '积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,761,1284,794)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,763,1264,794)[88x31]    Name: '积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,794,1284,827)[128x33]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,794,1284,827)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,796,1264,827)[88x31]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,827,1284,860)[128x33]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,827,1284,860)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,829,1264,860)[88x31]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,860,1284,893)[128x33]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,860,1284,893)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,862,1264,893)[88x31]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+2021-11-18 13:42:36.225 automation.py[114] main -> Ends
+
+UIAutomation 2.0.15 (Python 3.7.0, 64 bit)
+2021-11-18 13:43:15.717 automation.py[79] main -> Starts, Current Cursor Position: (1219, 919)
+ControlType: ListControl    ClassName:     AutomationId:     Rect: (1156,728,1284,893)[128x165]    Name: ''    Handle: 0x0(0)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern SelectionPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,728,1284,761)[128x33]    Name: '加油记录'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,728,1284,761)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,730,1264,761)[88x31]    Name: '加油记录'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,761,1284,794)[128x33]    Name: '积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,761,1284,794)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,763,1264,794)[88x31]    Name: '积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,794,1284,827)[128x33]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,794,1284,827)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,796,1264,827)[88x31]    Name: '买单油站列表'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,827,1284,860)[128x33]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,827,1284,860)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,829,1264,860)[88x31]    Name: '新个人中心'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+    ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (1156,860,1284,893)[128x33]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 1    SupportedPattern: InvokePattern LegacyIAccessiblePattern ScrollItemPattern
+        ControlType: PaneControl    ClassName:     AutomationId:     Rect: (1156,860,1284,893)[128x33]    Name: ''    Handle: 0x0(0)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+            ControlType: TextControl    ClassName:     AutomationId:     Rect: (1176,862,1264,893)[88x31]    Name: '新会员积分商城'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern ScrollItemPattern
+2021-11-18 13:43:15.925 automation.py[114] main -> Ends
+
